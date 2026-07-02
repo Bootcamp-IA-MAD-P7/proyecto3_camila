@@ -1,0 +1,18 @@
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales de Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos basura del sistema (Windows/Mac)
+.DS_Store
+Thumbs.db
+desktop.ini
